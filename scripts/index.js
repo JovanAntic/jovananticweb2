@@ -22,10 +22,10 @@ window.addEventListener('load', function () {
   console.log('Window Load');
   const shop_regex = /^\/shop\.html$/;
   const cart_regex = /^\/cart\.html$/;
-  if (
-    shop_regex.test(this.window.location.pathname) ||
-    cart_regex.test(this.window.location.pathname)
-  ) {
+  //if (
+    //shop_regex.test(this.window.location.pathname) ||
+    //cart_regex.test(this.window.location.pathname)
+ // ) {
     if (!this.localStorage.getItem('cart'))
       localStorage.setItem('cart', JSON.stringify([]));
     localStorage.setItem('searchResult', '');
@@ -38,7 +38,7 @@ window.addEventListener('load', function () {
     fetchData('assets/data/brands.json', setBrands);
     fetchData('assets/data/collections.json', setCollections);
     fetchData('assets/data/watches.json', setProducts);
-  }
+ // }
 });
 
 // Brands & Collections
