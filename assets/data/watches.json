@@ -1,0 +1,321 @@
+[
+  {
+    "id": 1,
+    "name": "Chrono Sport",
+    "description": "A sporty chronograph watch perfect for athletes.",
+    "img": {
+      "src": "w1.jpeg",
+      "alt": "Chrono Sport"
+    },
+    "material": "Titanium",
+    "collection": 3,
+    "brand": 2,
+    "price": 200
+  },
+  {
+    "id": 2,
+    "name": "Elegant Timepiece",
+    "description": "A sleek and sophisticated watch for formal occasions.",
+    "img": {
+      "src": "w2.jpeg",
+      "alt": "Elegant Timepiece"
+    },
+    "material": "Steel",
+    "collection": 1,
+    "brand": 4,
+    "price": 500
+  },
+  {
+    "id": 3,
+    "name": "Sporty Diver",
+    "description": "A rugged dive watch for underwater adventures.",
+    "img": {
+      "src": "w3.jpeg",
+      "alt": "Sporty Diver"
+    },
+    "material": "Steel",
+    "collection": 4,
+    "brand": 3,
+    "price": 300
+  },
+  {
+    "id": 4,
+    "name": "Classic Timepiece",
+    "description": "A timeless watch that never goes out of style.",
+    "img": {
+      "src": "w4.jpeg",
+      "alt": "Classic Timepiece"
+    },
+    "material": "Ceramic",
+    "collection": 2,
+    "brand": 5,
+    "price": 600
+  },
+  {
+    "id": 5,
+    "name": "Military Style",
+    "description": "A tough and durable watch designed for military use.",
+    "img": {
+      "src": "w5.jpeg",
+      "alt": "Military Style"
+    },
+    "material": "Steel",
+    "collection": 5,
+    "brand": 1,
+    "price": 400
+  },
+  {
+    "id": 6,
+    "name": "Racing Chronograph",
+    "description": "A high-performance watch designed for speed and accuracy.",
+    "img": {
+      "src": "w6.jpeg",
+      "alt": "Racing Chronograph"
+    },
+    "material": "Titanium",
+    "collection": 3,
+    "brand": 2,
+    "price": 250
+  },
+  {
+    "id": 7,
+    "name": "Aviator's Watch",
+    "description": "A stylish and functional watch designed for pilots.",
+    "img": {
+      "src": "w7.jpeg",
+      "alt": "Aviator's Watch"
+    },
+    "material": "Steel",
+    "collection": 4,
+    "brand": 3,
+    "price": 350
+  },
+  {
+    "id": 8,
+    "name": "Minimalist Timepiece",
+    "description": "A simple yet elegant watch that pairs well with any outfit.",
+    "img": {
+      "src": "w8.jpeg",
+      "alt": "Minimalist Timepiece"
+    },
+    "material": "Ceramic",
+    "collection": 2,
+    "brand": 5,
+    "price": 450
+  },
+  {
+    "id": 9,
+    "name": "Dive Master",
+    "description": "A professional-grade dive watch for serious divers.",
+    "img": {
+      "src": "w9.jpeg",
+      "alt": "Dive Master"
+    },
+    "material": "Titanium",
+    "collection": 5,
+    "brand": 1,
+    "price": 700
+  },
+  {
+    "id": 10,
+    "name": "Chrono Classic",
+    "description": "A classic chronograph watch that never goes out of style.",
+    "img": {
+      "src": "w10.jpeg",
+      "alt": "Chrono Classic"
+    },
+    "material": "Steel",
+    "collection": 1,
+    "brand": 4,
+    "price": 550
+  },
+  {
+    "id": 11,
+    "name": "Smartwatch",
+    "description": "A high-tech watch with advanced features like fitness tracking and mobile connectivity.",
+    "img": {
+      "src": "w11.jpeg",
+      "alt": "Smartwatch"
+    },
+    "material": "Ceramic",
+    "collection": 3,
+    "brand": 2,
+    "price": 800
+  },
+  {
+    "id": 12,
+    "name": "Retro Timepiece",
+    "description": "A vintage-style watch with modern features and materials.",
+    "img": {
+      "src": "w12.jpeg",
+      "alt": "Retro Timepiece"
+    },
+    "material": "Steel",
+    "collection": 4,
+    "brand": 3,
+    "price": 400
+  },
+  {
+    "id": 13,
+    "name": "Fashionable Watch",
+    "description": "A trendy watch with a unique design that stands out from the crowd.",
+    "img": {
+      "src": "w13.jpeg",
+      "alt": "Fashionable Watch"
+    },
+    "material": "Ceramic",
+    "collection": 2,
+    "brand": 5,
+    "price": 350
+  },
+  {
+    "id": 14,
+    "name": "Pilot's Chronograph",
+    "description": "A precise and reliable watch designed for aviation enthusiasts.",
+    "img": {
+      "src": "w14.jpeg",
+      "alt": "Pilot's Chronograph"
+    },
+    "material": "Titanium",
+    "collection": 5,
+    "brand": 1,
+    "price": 600
+  },
+  {
+    "id": 15,
+    "name": "Sleek Timepiece",
+    "description": "A sleek and modern watch with minimalist design.",
+    "img": {
+      "src": "w15.jpeg",
+      "alt": "Sleek Timepiece"
+    },
+    "material": "Steel",
+    "collection": 1,
+    "brand": 4,
+    "price": 450
+  },
+  {
+    "id": 16,
+    "name": "Luxury Watch",
+    "description": "A high-end watch made from the finest materials and craftsmanship.",
+    "img": {
+      "src": "w16.jpeg",
+      "alt": "Luxury Watch"
+    },
+    "material": "Ceramic",
+    "collection": 2,
+    "brand": 1,
+    "price": 234
+  },
+  {
+    "id": 17,
+    "name": "Sporty Chrono",
+    "description": "A sporty chronograph watch for athletes and adventurers.",
+    "img": {
+      "src": "w17.jpeg",
+      "alt": "Sporty Chrono"
+    },
+    "material": "Titanium",
+    "collection": 3,
+    "brand": 5,
+    "price": 650
+  },
+  {
+    "id": 18,
+    "name": "Classic Dress Watch",
+    "description": "A timeless and elegant watch perfect for formal occasions.",
+    "img": {
+      "src": "w18.jpeg",
+      "alt": "Classic Dress Watch"
+    },
+    "material": "Steel",
+    "collection": 2,
+    "brand": 3,
+    "price": 350
+  },
+  {
+    "id": 19,
+    "name": "Rugged Watch",
+    "description": "A rugged and durable watch for outdoor enthusiasts.",
+    "img": {
+      "src": "w19.jpeg",
+      "alt": "Rugged Watch"
+    },
+    "material": "Titanium",
+    "collection": 4,
+    "brand": 2,
+    "price": 550
+  },
+  {
+    "id": 20,
+    "name": "Minimalist Timepiece",
+    "description": "A minimalist watch with clean lines and simple design.",
+    "img": {
+      "src": "w20.jpeg",
+      "alt": "Minimalist Timepiece"
+    },
+    "material": "Ceramic",
+    "collection": 1,
+    "brand": 1,
+    "price": 400
+  },
+  {
+    "id": 21,
+    "name": "Aviator Watch",
+    "description": "A classic aviator watch with a rugged and practical design.",
+    "img": {
+      "src": "w21.jpeg",
+      "alt": "Aviator Watch"
+    },
+    "material": "Steel",
+    "collection": 5,
+    "brand": 4,
+    "price": 500
+  },
+  {
+    "id": 22,
+    "name": "Fashion Watch",
+    "description": "A trendy watch with a bold and colorful design.",
+    "img": {
+      "src": "w22.jpeg",
+      "alt": "Fashion Watch"
+    },
+    "material": "Ceramic",
+    "collection": 3,
+    "brand": 3,
+    "price": 300
+  },
+  {
+    "id": 23,
+    "name": "Dressy Timepiece",
+    "description": "A dressy watch with a stylish and sophisticated design.",
+    "img": {
+      "src": "w23.jpeg",
+      "alt": "Dressy Timepiece"
+    },
+    "material": "Titanium",
+    "collection": 2,
+    "brand": 2,
+    "price": 450
+  },
+  {
+    "id": 24,
+    "name": "The Explorer",
+    "description": "A rugged and reliable watch for outdoor adventures.",
+    "img": { "src": "w24.jpeg", "alt": "The Explorer" },
+    "material": "Titanium",
+    "collection": 4,
+    "brand": 5,
+    "price": 650
+  },
+  {
+    "id": 25,
+    "name": "Sporty Chrono",
+    "description": "A sporty chronograph watch with stopwatch functionality.",
+    "img": { "src": "w25.jpeg", "alt": "Sporty Chrono" },
+    "material": "Steel",
+    "collection": 3,
+    "brand": 3,
+    "price": 500
+  }
+]
